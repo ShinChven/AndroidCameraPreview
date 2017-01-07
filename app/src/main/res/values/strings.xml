@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraPreview</string>
+    <string name="permission_checker_title">check the permission</string>
+    <string name="string_help_text">this app need some more permissions.</string>
+    <string name="deny">deny</string>
+    <string name="go_to_settings">go to settings</string>
+</resources>
